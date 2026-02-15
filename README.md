@@ -153,8 +153,8 @@ Phase 5: Testing and deployment
 
 This project uses Git and GitHub for version control and project management.
 
-GitHub Repository:
-https://github.com/YOUR_USERNAME/lost-found-ai-system
+GitHub Repository: https://github.com/Anushka7769/lost-found-ai-system
+
 
 ---
 
